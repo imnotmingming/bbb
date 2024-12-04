@@ -1,0 +1,130 @@
+.frame {
+  background-color: #ebe9e7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-color: #ebe9e7;
+  width: 1920px;
+  height: 1080px;
+}
+
+.frame .overlap-group-wrapper {
+  position: relative;
+  width: 1795px;
+  height: 1007px;
+  top: 73px;
+  left: 51px;
+}
+
+.frame picture {
+  width: 524px;
+  height: 343px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .he-is-a-british {
+  position: absolute;
+  width: 259px;
+  top: 352px;
+  left: 0;
+  font-family: "Pragati Narrow-Bold", Helvetica;
+  font-weight: 700;
+  color: #121212;
+  font-size: 18.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .img {
+  width: 900px;
+  height: 616px;
+  top: 97px;
+  left: 784px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .exit-through-the {
+  position: absolute;
+  top: 651px;
+  left: 826px;
+  font-family: "Pragati Narrow-Bold", Helvetica;
+  font-weight: 700;
+  color: #121212;
+  font-size: 14.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 253px;
+  top: 207px;
+  left: 1542px;
+  font-family: "Pragati Narrow-Bold", Helvetica;
+  font-weight: 700;
+  color: #121212;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .div {
+  position: absolute;
+  top: 134px;
+  left: 406px;
+  font-family: "Spray Letters", Helvetica;
+  font-weight: 400;
+  color: #c4353b;
+  font-size: 253px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 387px;
+  left: 657px;
+  font-family: "Spray Letters", Helvetica;
+  font-weight: 400;
+  color: #c4353b;
+  font-size: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .bankcy {
+  position: absolute;
+  width: 423px;
+  height: 716px;
+  top: 291px;
+  left: 214px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 589px;
+  left: 724px;
+  font-family: "Spray Letters", Helvetica;
+  font-weight: 400;
+  color: #c4353b;
+  font-size: 243px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.letter {
+  opacity: 0;
+  display: inline-block;
+}
